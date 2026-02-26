@@ -1,0 +1,454 @@
+[
+  {
+    "D1_discrecionalidad": {
+      "presente": false,
+      "indicadores": {
+        "interpretacion_flexible": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "decisiones_caso_por_caso": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "adaptacion_requisitos": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "priorizacion_informal": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        }
+      },
+      "intensidad_global": "baja"
+    },
+    "D2_rutinizacion": {
+      "presente": true,
+      "indicadores": {
+        "simplificacion_tramites": {
+          "presente": true,
+          "cita": "Uno de ellos es el tema de la afiliación del programa. Ahora, para partir del tema de la afiliación, se combina con varias instrucciones para que, hasta el dicho adulto mayor cumpla los requisitos que pide esa dama.",
+          "intensidad": "media"
+        },
+        "estandarizacion_atencion": {
+          "presente": true,
+          "cita": "El otro tema es el siguiente requisito que les pide es el tema de su edad. Tienen que tener 65 años cumplidos, en este caso, para que puedan beneficiar el programa.",
+          "intensidad": "alta"
+        },
+        "categorias_informales": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "reduccion_tiempo": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        }
+      },
+      "intensidad_global": "media"
+    },
+    "D3_racionamiento": {
+      "presente": false,
+      "indicadores": {
+        "barreras_informales": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "derivaciones_reiteradas": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "seleccion_implicita": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "postergacion_complejos": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        }
+      },
+      "intensidad_global": "baja"
+    },
+    "D4_relacion": {
+      "presente": true,
+      "indicadores": {
+        "trato_vertical_horizontal": {
+          "presente": true,
+          "tipo": "mixto",
+          "cita": "Es función del programa.",
+          "intensidad": "media"
+        },
+        "nivel_escucha": {
+          "presente": true,
+          "nivel": "medio",
+          "cita": "Sí, entendemos. Y usted, ¿cómo describiría las condiciones de los adultos mayores del programa en COSME?",
+          "intensidad": "media"
+        },
+        "reconocimiento_autonomia": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "construccion_adulto_mayor": {
+          "presente": true,
+          "categoria": "beneficiario",
+          "cita": "Muchos adultos mayores ahí, pero hablamos sin exageración, el 80% de los adultos mayores que trabajamos con nosotros viven en estado de abandono.",
+          "intensidad": "alta"
+        }
+      },
+      "intensidad_global": "media"
+    },
+    "notas_generales": "La entrevista proporciona información limitada sobre la discrecionalidad y el racionamiento, pero ofrece detalles sobre la rutinización y la relación con los adultos mayores, destacando la estandarización en la atención y una percepción mixta de trato en la relación.",
+    "id_entrevista": "Promotor Jhonatan_Pensión 65_parte_01",
+    "archivo_original": "Promotor Jhonatan_Pensión 65_parte_01",
+    "longitud_transcripcion": 7365
+  },
+  {
+    "D1_discrecionalidad": {
+      "presente": true,
+      "indicadores": {
+        "interpretacion_flexible": {
+          "presente": true,
+          "cita": "Vemos si sufre algún maltrato de alguna parte de la población, o algunos de sus hijos, no sé qué, en torno de ir al lugar para poder ver.",
+          "intensidad": "media"
+        },
+        "decisiones_caso_por_caso": {
+          "presente": true,
+          "cita": "si efectivamente merecen o no merecen el apoyo del Estado",
+          "intensidad": "alta"
+        },
+        "adaptacion_requisitos": {
+          "presente": true,
+          "cita": "Mejor tú, señor tal, que usted dirige acá. Usted tiene la fuerza de elegir, entonces entre ellos también se designan.",
+          "intensidad": "media"
+        },
+        "priorizacion_informal": {
+          "presente": true,
+          "cita": "si efectivamente merecen o no merecen el apoyo del Estado",
+          "intensidad": "alta"
+        }
+      },
+      "intensidad_global": "media"
+    },
+    "D2_rutinizacion": {
+      "presente": true,
+      "indicadores": {
+        "simplificacion_tramites": {
+          "presente": true,
+          "cita": "Una de las estrategias fue conseguirse la movilidad. Con eso ya puedes movilizarte más rápido.",
+          "intensidad": "media"
+        },
+        "estandarizacion_atencion": {
+          "presente": true,
+          "cita": "Nosotros nos pusimos para hacer algún tipo de reuniones con nuestros usuarios.",
+          "intensidad": "media"
+        },
+        "categorias_informales": {
+          "presente": true,
+          "cita": "la mayoría de los adultos mayores son quechua blancos",
+          "intensidad": "media"
+        },
+        "reduccion_tiempo": {
+          "presente": true,
+          "cita": "Una de las estrategias fue conseguirse la movilidad. Con eso ya puedes movilizarte más rápido.",
+          "intensidad": "media"
+        }
+      },
+      "intensidad_global": "media"
+    },
+    "D3_racionamiento": {
+      "presente": true,
+      "indicadores": {
+        "barreras_informales": {
+          "presente": true,
+          "cita": "Yo en este caso cubro todo la gasolina.",
+          "intensidad": "media"
+        },
+        "derivaciones_reiteradas": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "seleccion_implicita": {
+          "presente": true,
+          "cita": "si efectivamente merecen o no merecen el apoyo del Estado",
+          "intensidad": "alta"
+        },
+        "postergacion_complejos": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        }
+      },
+      "intensidad_global": "media"
+    },
+    "D4_relacion": {
+      "presente": true,
+      "indicadores": {
+        "trato_vertical_horizontal": {
+          "presente": true,
+          "tipo": "mixto",
+          "cita": "Mejor tú, señor tal, que usted dirige acá. Usted tiene la fuerza de elegir, entonces entre ellos también se designan.",
+          "intensidad": "media"
+        },
+        "nivel_escucha": {
+          "presente": true,
+          "nivel": "alto",
+          "cita": "Nosotros nos pusimos para hacer algún tipo de reuniones con nuestros usuarios.",
+          "intensidad": "media"
+        },
+        "reconocimiento_autonomia": {
+          "presente": true,
+          "cita": "Mejor tú, señor tal, que usted dirige acá. Usted tiene la fuerza de elegir, entonces entre ellos también se designan.",
+          "intensidad": "media"
+        },
+        "construccion_adulto_mayor": {
+          "presente": true,
+          "categoria": "sujeto_vulnerable",
+          "cita": "si efectivamente merecen o no merecen el apoyo del Estado",
+          "intensidad": "alta"
+        }
+      },
+      "intensidad_global": "media"
+    },
+    "notas_generales": "El análisis muestra una combinación de discrecionalidad y rutinización en la implementación de políticas para adultos mayores, con un enfoque en la adaptación a las necesidades locales y la participación comunitaria.",
+    "id_entrevista": "Promotor Jhonatan_Pensión 65_parte_02",
+    "archivo_original": "Promotor Jhonatan_Pensión 65_parte_02",
+    "longitud_transcripcion": 6805
+  },
+  {
+    "D1_discrecionalidad": {
+      "presente": true,
+      "indicadores": {
+        "interpretacion_flexible": {
+          "presente": true,
+          "cita": "el tema de la tecnología ya está avanzando",
+          "intensidad": "baja"
+        },
+        "decisiones_caso_por_caso": {
+          "presente": true,
+          "cita": "Sí, eso sí, eso es a diario, constante. Siempre están ahí que nos llaman al celular, el por qué no están ingresando.",
+          "intensidad": "media"
+        },
+        "adaptacion_requisitos": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "priorizacion_informal": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        }
+      },
+      "intensidad_global": "baja"
+    },
+    "D2_rutinizacion": {
+      "presente": true,
+      "indicadores": {
+        "simplificacion_tramites": {
+          "presente": true,
+          "cita": "Ahora ya nuestros abuelitos ya tienen sus tarjetas, antes cobraban con DNI, ahora ya tienen su tarjeta.",
+          "intensidad": "media"
+        },
+        "estandarizacion_atencion": {
+          "presente": true,
+          "cita": "nosotros hacemos una visita domiciliaria al 100% año en año para poder ver en qué condición viven",
+          "intensidad": "alta"
+        },
+        "categorias_informales": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "reduccion_tiempo": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        }
+      },
+      "intensidad_global": "media"
+    },
+    "D3_racionamiento": {
+      "presente": true,
+      "indicadores": {
+        "barreras_informales": {
+          "presente": true,
+          "cita": "Mira, lo que pasa es que yo me sentí que es un programa muy joven, que principalmente no estamos tan bien. Esa es un poquito la dificultad que tenemos, el por qué no están ingresando rápido al programa.",
+          "intensidad": "media"
+        },
+        "derivaciones_reiteradas": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "seleccion_implicita": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "postergacion_complejos": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        }
+      },
+      "intensidad_global": "baja"
+    },
+    "D4_relacion": {
+      "presente": true,
+      "indicadores": {
+        "trato_vertical_horizontal": {
+          "presente": true,
+          "tipo": "mixto",
+          "cita": "Sí, eso sí, eso es a diario, constante. Siempre están ahí que nos llaman al celular, el por qué no están ingresando.",
+          "intensidad": "media"
+        },
+        "nivel_escucha": {
+          "presente": true,
+          "nivel": "alto",
+          "cita": "Sí, eso sí, eso es a diario, constante. Siempre están ahí que nos llaman al celular, el por qué no están ingresando.",
+          "intensidad": "media"
+        },
+        "reconocimiento_autonomia": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "construccion_adulto_mayor": {
+          "presente": true,
+          "categoria": "beneficiario",
+          "cita": "Ahora ya nuestros abuelitos ya tienen sus tarjetas, antes cobraban con DNI, ahora ya tienen su tarjeta.",
+          "intensidad": "media"
+        }
+      },
+      "intensidad_global": "media"
+    },
+    "notas_generales": "El análisis muestra una combinación de rutinización y discrecionalidad en la implementación de las políticas, con un enfoque en la estandarización de procesos y una comunicación activa con los beneficiarios.",
+    "id_entrevista": "Promotor Jhonatan_Pensión 65_parte_03",
+    "archivo_original": "Promotor Jhonatan_Pensión 65_parte_03",
+    "longitud_transcripcion": 7122
+  },
+  {
+    "D1_discrecionalidad": {
+      "presente": false,
+      "indicadores": {
+        "interpretacion_flexible": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "decisiones_caso_por_caso": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "adaptacion_requisitos": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "priorizacion_informal": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        }
+      },
+      "intensidad_global": "baja"
+    },
+    "D2_rutinizacion": {
+      "presente": false,
+      "indicadores": {
+        "simplificacion_tramites": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "estandarizacion_atencion": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "categorias_informales": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "reduccion_tiempo": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        }
+      },
+      "intensidad_global": "baja"
+    },
+    "D3_racionamiento": {
+      "presente": false,
+      "indicadores": {
+        "barreras_informales": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "derivaciones_reiteradas": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "seleccion_implicita": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "postergacion_complejos": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        }
+      },
+      "intensidad_global": "baja"
+    },
+    "D4_relacion": {
+      "presente": true,
+      "indicadores": {
+        "trato_vertical_horizontal": {
+          "presente": true,
+          "tipo": "horizontal",
+          "cita": "Nos consideramos amigos. Muchas veces nos ven como hijos. Y cada vez que llegamos, ah, bueno, llegó mi hijo. Así se trata, ¿no? Como una familia, ¿no?",
+          "intensidad": "alta"
+        },
+        "nivel_escucha": {
+          "presente": true,
+          "nivel": "alto",
+          "cita": "Nos consideramos amigos. Muchas veces nos ven como hijos. Y cada vez que llegamos, ah, bueno, llegó mi hijo. Así se trata, ¿no? Como una familia, ¿no?",
+          "intensidad": "alta"
+        },
+        "reconocimiento_autonomia": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "construccion_adulto_mayor": {
+          "presente": true,
+          "categoria": "mixto",
+          "cita": "Nos consideramos amigos. Muchas veces nos ven como hijos. Y cada vez que llegamos, ah, bueno, llegó mi hijo. Así se trata, ¿no? Como una familia, ¿no?",
+          "intensidad": "alta"
+        }
+      },
+      "intensidad_global": "alta"
+    },
+    "notas_generales": "La entrevista proporciona evidencia clara de una relación horizontal y de alta escucha entre el burócrata y los adultos mayores, tratándolos como amigos o familia. No hay evidencia de discrecionalidad, rutinización o racionamiento en la implementación de políticas.",
+    "id_entrevista": "Promotor Jhonatan_Pensión 65_parte_04",
+    "archivo_original": "Promotor Jhonatan_Pensión 65_parte_04",
+    "longitud_transcripcion": 4396
+  }
+]

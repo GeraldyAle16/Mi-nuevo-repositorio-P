@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 """
 Script de prueba - Genera un audio de prueba y verifica que todo funciona.
 
@@ -9,7 +11,13 @@ Uso:
 """
 
 import sys
+import io
 from pathlib import Path
+
+# Configurar encoding UTF-8 para Windows
+if sys.platform == "win32":
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
 from datetime import datetime
 import json
 

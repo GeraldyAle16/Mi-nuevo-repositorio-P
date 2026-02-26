@@ -5,22 +5,28 @@ Define API keys, modelos, parámetros y rutas.
 
 import os
 from pathlib import Path
+from dotenv import load_dotenv
 
 # ==================== CONFIGURACIÓN DE API ====================
-# Cargar API key desde variable de entorno (MÁS SEGURO)
-# Si no está definida, intentar usar valor directo (NO RECOMENDADO en producción)
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
+# Cargar variables de entorno desde archivo .env
+PROJECT_ROOT = Path(__file__).parent.absolute()
+ENV_FILE = PROJECT_ROOT / ".env"
+load_dotenv(ENV_FILE)
+
+# Cargar API key desde variable de entorno o archivo .env
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
 
 if not OPENAI_API_KEY:
     raise ValueError(
         "⚠️  OPENAI_API_KEY no está configurada.\n"
-        "Por favor, ejecuta: export OPENAI_API_KEY='tu-api-key-aqui'\n"
-        "O establece la variable de entorno en tu sistema."
+        "Por favor, crea un archivo .env en la raíz del proyecto con:\n"
+        "OPENAI_API_KEY=sk-xxxxxxxxxxxx\n"
+        "O ejecuta: export OPENAI_API_KEY='tu-api-key-aqui'"
     )
 
 # ==================== MODELOS DE OpenAI ====================
 WHISPER_MODEL = "whisper-1"  # Modelo de transcripción
-GPT_MODEL = "gpt-4o"  # Modelo de análisis
+GPT_MODEL = "gpt-4-turbo"  # Modelo de análisis (más robusto que gpt-4o)
 IDIOMA_AUDIO = "es"  # Español
 
 # ==================== PARÁMETROS DE GPT ====================
@@ -28,7 +34,6 @@ TEMPERATURA_GPT = 0.1  # Baja temperatura para análisis más consistente
 MAX_TOKENS = 4000  # Máximo de tokens en respuesta
 
 # ==================== RUTAS DE PROYECTO ====================
-PROJECT_ROOT = Path(__file__).parent.absolute()
 AUDIO_DIR = PROJECT_ROOT / "audio"
 TRANSCRIPCIONES_DIR = PROJECT_ROOT / "transcripciones"
 RESULTADOS_DIR = PROJECT_ROOT / "resultados"

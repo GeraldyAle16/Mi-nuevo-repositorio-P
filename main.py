@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 """
 Script principal - Herramienta de análisis cualitativo de entrevistas.
 
@@ -11,7 +13,13 @@ Uso:
 
 import argparse
 import sys
+import io
 from pathlib import Path
+
+# Configurar encoding UTF-8 para Windows
+if sys.platform == "win32":
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
 
 from config import AUDIO_DIR, VERBOSE
 from transcribir import procesar_todos_audios, transcribir_audio, cargar_transcripcion

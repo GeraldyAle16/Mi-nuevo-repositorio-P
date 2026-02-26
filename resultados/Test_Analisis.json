@@ -1,0 +1,115 @@
+[
+  {
+    "id_entrevista": "test_entrevista",
+    "archivo_original": "test_entrevista.mp3",
+    "longitud_transcripcion": 661,
+    "D1_discrecionalidad": {
+      "presente": true,
+      "indicadores": {
+        "interpretacion_flexible": {
+          "presente": true,
+          "cita": "A veces dejo que pasen aunque no tengan todo en orden",
+          "intensidad": "media"
+        },
+        "decisiones_caso_por_caso": {
+          "presente": true,
+          "cita": "Algunos casos son más urgentes",
+          "intensidad": "alta"
+        },
+        "adaptacion_requisitos": {
+          "presente": true,
+          "cita": "Los atiendo igual, pero les explico que es más lento",
+          "intensidad": "media"
+        },
+        "priorizacion_informal": {
+          "presente": true,
+          "cita": "Los que veo que están muy enfermos o solos trato de procesarlos rápido",
+          "intensidad": "alta"
+        }
+      },
+      "intensidad_global": "media"
+    },
+    "D2_rutinizacion": {
+      "presente": true,
+      "indicadores": {
+        "simplificacion_tramites": {
+          "presente": true,
+          "cita": "Pero los atiendo igual, aunque no tengan todo en orden",
+          "intensidad": "baja"
+        },
+        "estandarizacion_atencion": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "categorias_informales": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "reduccion_tiempo": {
+          "presente": true,
+          "cita": "Trato de procesarlos rápido",
+          "intensidad": "media"
+        }
+      },
+      "intensidad_global": "baja"
+    },
+    "D3_racionamiento": {
+      "presente": true,
+      "indicadores": {
+        "barreras_informales": {
+          "presente": true,
+          "cita": "Necesitan cédula y certificado de pobreza",
+          "intensidad": "media"
+        },
+        "derivaciones_reiteradas": {
+          "presente": true,
+          "cita": "A veces los refiero a otras instituciones",
+          "intensidad": "baja"
+        },
+        "seleccion_implicita": {
+          "presente": true,
+          "cita": "Los otros esperan más",
+          "intensidad": "media"
+        },
+        "postergacion_complejos": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        }
+      },
+      "intensidad_global": "media"
+    },
+    "D4_relacion": {
+      "presente": true,
+      "indicadores": {
+        "trato_vertical_horizontal": {
+          "presente": true,
+          "tipo": "vertical",
+          "cita": "Les explico que es más lento",
+          "intensidad": "baja"
+        },
+        "nivel_escucha": {
+          "presente": true,
+          "nivel": "bajo",
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "reconocimiento_autonomia": {
+          "presente": false,
+          "cita": null,
+          "intensidad": "baja"
+        },
+        "construccion_adulto_mayor": {
+          "presente": true,
+          "categoria": "sujeto_vulnerable",
+          "cita": "Los que están muy enfermos o solos",
+          "intensidad": "media"
+        }
+      },
+      "intensidad_global": "baja"
+    },
+    "notas_generales": "Entrevista de prueba que muestra patrones de discrecionalidad y racionamiento de acceso."
+  }
+]
